@@ -48,9 +48,9 @@
         - Program.cs
         - requests.http
         - TaskApi.http
-        - .editorconfig
-        - .gitignore
-        - README.md
+    - .editorconfig
+    - .gitignore
+    - README.md
 
 ---
 
